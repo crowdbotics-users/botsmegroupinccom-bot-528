@@ -1,0 +1,6 @@
+
+Tick: SMETKN,
+Name:  New Token,
+Decimals:  18,
+Total Supply:  1000000,
+Ropsten Network Transaction Hash: 0x1e3daba40d1d3cea3eef970e0c4226f57e917f1c900055a21950bb897dd09b23
